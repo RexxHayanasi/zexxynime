@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Scraper for Kaguya (kaguya.live)",
   "engines": {
-    "node": ">= 16.13 <17"
+    "node": ">= 22.2.0 <22"
   },
   "devDependencies": {
     "@types/apicache": "^1.6.1",
